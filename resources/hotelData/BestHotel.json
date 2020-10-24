@@ -1,0 +1,20 @@
+[
+    {
+        "hotel": "Best Hotel 1",
+        "hotelRate": "5",
+        "hotelFare": "100.0",
+        "roomAmenities": "Free Wifi internet Access,TV,Free Breakfast,Toiletries"
+    },
+    {
+        "hotel": "Best Hotel 2",
+        "hotelRate": "4",
+        "hotelFare": "200.0",
+        "roomAmenities": "Free Wifi internet Access,TV,Free Breakfast"
+    },
+    {
+        "hotel": "Best Hotel 3",
+        "hotelRate": "3",
+        "hotelFare": "300.0",
+        "roomAmenities": "Free Wifi internet Access,TV"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "hotelName": "Top Hotel 1",
+        "rate": "5",
+        "price": "100.0",
+        "amenities": {
+            "0": "Free Wifi internet Access",
+            "1": "TV",
+            "2": "Free Breakfast",
+            "3": "Toiletries"
+        }
+
+    },
+    {
+        "hotelName": "Top Hotel 2",
+        "rate": "4",
+        "price": "200.0",
+        "discount": "20",
+        "amenities": {
+            "0": "Free Wifi internet Access",
+            "1": "TV"
+        }
+        
+    },
+    {
+        "hotelName": "Top Hotel 3",
+        "rate": "3",
+        "price": "300.0",
+        "discount": "10",
+        "amenities": {
+            "0": "Free Wifi internet Access",
+            "1": "TV"
+        }
+    }
+]
